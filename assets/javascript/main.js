@@ -1,0 +1,1 @@
+if(navigator.connection&&navigator.connection.effectiveType){if(navigator.connection.effectiveType==='4g'){}else{}}
