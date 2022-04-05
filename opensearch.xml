@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+<ShortName>Офіційний Сайт VoldMc | Офіційний Сервер Майнкрафт VoldMc</ShortName>
+<Description>Ласкаво просимо на Офіційний Сайт Майнкрафт сервера VoldMc, сервер працює з 2022 року версія сервера 1.8 по 1.18.2, айпі: play.voldmc.com</Description>
+<Tags>VoldMc</Tags>
+<Url template="https://voldmc.000webhostapp.com" type="text/html" method="get"/>
+<Image width="48" height="48">https://voldmc.000webhostapp.com/favicon.ico</Image>
+<Developer>VoldMc</Developer>
+<InputEncoding>utf-8</InputEncoding>
+<moz:SearchForm>https://voldmc.000webhostapp.com</moz:SearchForm>
+<moz:UpdateInterval>4</moz:UpdateInterval>
+</OpenSearchDescription>

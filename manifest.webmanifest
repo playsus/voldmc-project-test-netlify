@@ -1,0 +1,317 @@
+{
+"name": "VoldMc",
+"short_name": "Офіційний Сайт VoldMc | Офіційний Сервер Майнкрафт VoldMc",
+"description": "Офіційний Веб Додаток | Майнкрафт сервера VoldMc",
+"lang": "en",
+"start_url": "index.html",
+"scope": "index.html",
+"display": "minimal-ui",
+"orientation": "any",
+"background_color": "#FF4D00",
+"theme_color": "#FF4D00",
+"dir": "ltr",
+"id": "index.html",
+"icons": [
+{
+"src": "icons/manifest/manifest-icon-80x80.png",
+"sizes": "80x80",
+"type": "image/png",
+"purpose": "any"
+},
+{
+"src": "icons/manifest/manifest-icon-96x96.png",
+"sizes": "96x96",
+"type": "image/png",
+"purpose": "any"
+},
+{
+"src": "icons/manifest/manifest-icon-128x128.png",
+"sizes": "128x128",
+"type": "image/png",
+"purpose": "any"
+},
+{
+"src": "icons/manifest/manifest-icon-144x144.png",
+"sizes": "144x144",
+"type": "image/png",
+"purpose": "any"
+},
+{
+"src": "icons/manifest/manifest-icon-192x192.png",
+"sizes": "192x192",
+"type": "image/png",
+"purpose": "any"
+},
+{
+"src": "icons/manifest/manifest-icon-71x71.png",
+"sizes": "71x71",
+"type": "image/png",
+"purpose": "any"
+},
+{
+"src": "icons/manifest/manifest-icon-89x89.png",
+"sizes": "89x89",
+"type": "image/png",
+"purpose": "any"
+},
+{
+"src": "icons/manifest/manifest-icon-512x512.png",
+"sizes": "512x512",
+"type": "image/png",
+"purpose": "any"
+},
+{
+"src": "icons/manifest/manifest-icon-600x600.png",
+"sizes": "600x600",
+"type": "image/png",
+"purpose": "any"
+},
+{
+"src": "icons/manifest/manifest-icon-107x107.png",
+"sizes": "107x107",
+"type": "image/png",
+"purpose": "any"
+},
+{
+"src": "icons/manifest/manifest-icon-142x142.png",
+"sizes": "142x142",
+"type": "image/png",
+"purpose": "any"
+},
+{
+"src": "icons/manifest/manifest-icon-150x150.png",
+"sizes": "150x150",
+"type": "image/png",
+"purpose": "any"
+},
+{
+"src": "icons/manifest/manifest-icon-188x188.png",
+"sizes": "188x188",
+"type": "image/png",
+"purpose": "any"
+},
+{
+"src": "icons/manifest/manifest-icon-225x225.png",
+"sizes": "225x225",
+"type": "image/png",
+"purpose": "any"
+},
+{
+"src": "icons/manifest/manifest-icon-284x284.png",
+"sizes": "284x284",
+"type": "image/png",
+"purpose": "any"
+},
+{
+"src": "icons/manifest/manifest-icon-300x300.png",
+"sizes": "300x300",
+"type": "image/png",
+"purpose": "any"
+},
+{
+"src": "icons/manifest/manifest-icon-256x256.png",
+"sizes": "256x256",
+"type": "image/png",
+"purpose": "any"
+},
+{
+"src": "icons/manifest/manifest-icon-465x465.png",
+"sizes": "465x465",
+"type": "image/png",
+"purpose": "any"
+},
+{
+"src": "icons/manifest/manifest-icon-620x620.png",
+"sizes": "620x620",
+"type": "image/png",
+"purpose": "maskable"
+},
+{
+"src": "icons/manifest/manifest-icon-1024x1024.png",
+"sizes": "1024x1024",
+"type": "image/png",
+"purpose": "maskable"
+},
+{
+"src": "icons/manifest/manifest-icon-1240x1240.png",
+"sizes": "1240x1240",
+"type": "image/png",
+"purpose": "maskable"
+},
+{
+"src": "icons/manifest/manifest-icon-2480x2480.png",
+"sizes": "2480x2480",
+"type": "image/png",
+"purpose": "maskable"
+}
+],
+"shortcuts" : [
+{
+"name": "VoldMc Home",
+"short_name": "VoldMc Home",
+"description": "VoldMc Home",
+"url": "https://voldmc.000webhostapp.com",
+"icons": [{ "src": "icons/shortcuts/home.png", "sizes": "128x128","purpose": "any"}]
+},
+{
+"name": "VoldMc Rules",
+"short_name": "VoldMc Rules",
+"description": "VoldMc Rules",
+"url": "https://voldmc.000webhostapp.com/rules.html",
+"icons": [{ "src": "icons/shortcuts/rules.png", "sizes": "128x128","purpose": "any"}]
+},
+{
+"name": "VoldMc Map",
+"short_name": "VoldMc Map",
+"description": "VoldMc Map",
+"url": "https://voldmc.000webhostapp.com/map.html",
+"icons": [{ "src": "icons/shortcuts/map.png", "sizes": "128x128","purpose": "any"}]
+},
+{
+"name": "VoldMc Vote",
+"short_name": "VoldMc Vote",
+"description": "VoldMc Vote",
+"url": "https://voldmc.000webhostapp.com/vote.html",
+"icons": [{ "src": "icons/shortcuts/vote.png", "sizes": "128x128","purpose": "any"}]
+},
+{
+"name": "VoldMc Staff",
+"short_name": "VoldMc Staff",
+"description": "VoldMc Staff",
+"url": "https://voldmc.000webhostapp.com/staff.html",
+"icons": [{ "src": "icons/shortcuts/staff.png", "sizes": "128x128","purpose": "any"}]
+},
+{
+"name": "VoldMc Store | Shop",
+"short_name": "VoldMc Store | Shop",
+"description": "VoldMc Store | Shop",
+"url": "https://voldmc.easydonate.ru",
+"icons": [{ "src": "icons/shortcuts/store.png", "sizes": "128x128","purpose": "any"}]
+},
+{
+"name": "VoldMc 500 Internal Server",
+"short_name": "VoldMc 500 Internal Server",
+"description": "VoldMc 500 Internal Server",
+"url": "https://voldmc.000webhostapp.com/500.html",
+"icons": [{ "src": "icons/manifest/manifest-icon-96x96.png", "sizes": "96x96","purpose": "any"}]
+},
+{
+"name": "VoldMc 404 Not Found",
+"short_name": "VoldMc 404 Not Found",
+"description": "VoldMc 404 Not Found",
+"url": "https://voldmc.000webhostapp.com/404.html",
+"icons": [{ "src": "icons/manifest/manifest-icon-96x96.png", "sizes": "96x96","purpose": "any"}]
+},
+{
+"name": "VoldMc 403 Forbidden",
+"short_name": "VoldMc 403 Forbidden",
+"description": "VoldMc 403 Forbidden",
+"url": "https://voldmc.000webhostapp.com/403.html",
+"icons": [{ "src": "icons/manifest/manifest-icon-96x96.png", "sizes": "96x96","purpose": "any"}]
+},
+{
+"name": "VoldMc 402 Payment Required",
+"short_name": "VoldMc 402 Payment Required",
+"description": "VoldMc 402 Payment Required",
+"url": "https://voldmc.000webhostapp.com/402.html",
+"icons": [{ "src": "icons/manifest/manifest-icon-96x96.png", "sizes": "96x96","purpose": "any"}]
+},
+{
+"name": "VoldMc 401 Unauthorized",
+"short_name": "VoldMc 401 Unauthorized",
+"description": "VoldMc 401 Unauthorized",
+"url": "https://voldmc.000webhostapp.com/401.html",
+"icons": [{ "src": "icons/manifest/manifest-icon-96x96.png", "sizes": "96x96","purpose": "any"}]
+},
+{
+"name": "VoldMc 400 Bad Request",
+"short_name": "VoldMc 400 Bad Request",
+"description": "VoldMc 400 Bad Request",
+"url": "https://voldmc.000webhostapp.com/400.html",
+"icons": [{ "src": "icons/manifest/manifest-icon-96x96.png", "sizes": "96x96","purpose": "any"}]
+},
+{
+"name": "VoldMc SiteMap Html",
+"short_name": "VoldMc SiteMap Html",
+"description": "VoldMc SiteMap Html",
+"url": "https://voldmc.000webhostapp.com/sitemap.html",
+"icons": [{ "src": "icons/shortcuts/sitemap-html.png", "sizes": "128x128","purpose": "any"}]
+},
+{
+"name": "VoldMc Index Html",
+"short_name": "VoldMc Index Html",
+"description": "VoldMc Index Html",
+"url": "https://voldmc.000webhostapp.com/index.html",
+"icons": [{ "src": "icons/shortcuts/index.png", "sizes": "128x128","purpose": "any"}]
+},
+{
+"name": "VoldMc Offline",
+"short_name": "VoldMc Offline",
+"description": "VoldMc Offline",
+"url": "https://voldmc.000webhostapp.com/offline.html",
+"icons": [{ "src": "icons/shortcuts/offline.png", "sizes": "128x128","purpose": "any"}]
+},
+{
+"name": "VoldMc Sitemap Xml",
+"short_name": "VoldMc Sitemap Xml",
+"description": "VoldMc Sitemap Xml",
+"url": "https://voldmc.000webhostapp.com/sitemap.xml",
+"icons": [{ "src": "icons/shortcuts/sitemap-xml.png", "sizes": "128x128","purpose": "any"}]
+},
+{
+"name": "VoldMc Sitemaps Xml",
+"short_name": "VoldMc Sitemaps Xml",
+"description": "VoldMc Sitemaps Xml",
+"url": "https://voldmc.000webhostapp.com/sitemaps.xml",
+"icons": [{ "src": "icons/shortcuts/sitemap-xml.png", "sizes": "128x128","purpose": "any"}]
+},
+{
+"name": "VoldMc Atom Feed",
+"short_name": "VoldMc Atom Feed",
+"description": "VoldMc Atom Feed",
+"url": "https://voldmc.000webhostapp.com/feeds/atom.xml",
+"icons": [{ "src": "icons/feeds/atom.png", "sizes": "128x128","purpose": "any"}]
+},
+{
+"name": "VoldMc Rss Feed",
+"short_name": "VoldMc Rss Feed",
+"description": "VoldMc Rss Feed",
+"url": "https://voldmc.000webhostapp.com/feeds/rss.xml",
+"icons": [{ "src": "icons/feeds/rss.png", "sizes": "128x128","purpose": "any"}]
+}
+],
+"screenshots": [
+{
+"src": "https://voldmc.000webhostapp.com/screenshot-1.png",
+"sizes": "1920x1080",
+"type": "image/png",
+"platform": "wide",
+"label": "VoldMc screenshot 1",
+"description": "VoldMc screenshot 2"
+},
+{
+"src": "https://voldmc.000webhostapp.com/screenshot-2.png",
+"sizes": "1920x1080",
+"type": "image/png",
+"platform": "wide",
+"label": "VoldMc screenshot 2",
+"description": "VoldMc screenshot 2"
+}
+],
+"categories": [
+"games"
+],
+"related_applications": [
+{
+"platform": "play",
+"url": "https://voldmc.000webhostapp.com",
+"id": "com.voldmc.app"
+},
+{
+"platform": "itunes",
+"url": "https://voldmc.000webhostapp.com"
+}
+],
+"iarc_rating_id": "e84b072d-71b3-4d3e-86ae-31a8ce4e53b7",
+"prefer_related_applications": false
+}

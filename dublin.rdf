@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:admin="http://webns.net/mvcb/">
+<rdf:Description rdf:about="https://voldmc.000webhostapp.com">
+<dc:title>Офіційний Сайт VoldMc | Офіційний Сервер Майнкрафт VoldMc</dc:title>
+<dc:description>Ласкаво просимо на Офіційний Сайт Майнкрафт сервера VoldMc, сервер працює з 2022 року версія сервера 1.8 по 1.18.2, айпі: play.voldmc.com</dc:description>
+<dc:subject>
+<rdf:Bag>
+<rdf:li>VoldMc</rdf:li>
+<rdf:li>VoldMc Dublin</rdf:li>
+<rdf:li>VoldMc Dublin Rdf</rdf:li>
+<rdf:li>Офіційний Сайт VoldMc | Офіційний Сервер Майнкрафт VoldMc</rdf:li>
+<rdf:li>Ласкаво просимо на Офіційний Сайт Майнкрафт сервера VoldMc, сервер працює з 2022 року версія сервера 1.8 по 1.18.2, айпі: play.voldmc.com</rdf:li>
+</rdf:Bag>
+</dc:subject>
+<dc:language>en</dc:language>
+<dc:creator dc:source="https://voldmc.000webhostapp.com" rdfs:Literal="VoldMc"/>
+<dc:publisher rdfs:Literal="VoldMc"/>
+</rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,509 @@
+User-agent: Google
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: Googlebot
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: Googlebot-Image
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: Googlebot-Video
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: Googlebot-News
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: Googlebot-Mobile
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: AdsBot-Google
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: AdsBot-Google-Mobile
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: AdsBot-Google-Mobile-Apps
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: APIs-Google
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: Mediapartners-Google
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: Yandex
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: YandexBot
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: YandexImages
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: YandexVideo
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: YandexAddurlAllow
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: YandexMetrika
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: YandexImageResizer
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: YandexBlogs
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: YandexFavicons
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: YandexNews
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: YandexMobileBot
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: YandexDirect
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: YandexMedia
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: YandexPagechecker
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: Bingbot
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: BingPreview
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: Msnbot
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: Msnbot-Media
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: adidxbot
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: Mail.ru
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: Slurp
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: DuckDuckBot
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: DotBot
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: Rogerbot
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: Naverbot
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: AhrefsBot
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: Twitterbot
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: Facebookbot
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: facebookexternalhit
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: facebot
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: Discordbot
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: LinkedInBot
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: TelegramBot
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: Pinterest
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+User-agent: Pinterestbot
+Allow: /assets
+Allow: /data
+Allow: /feeds
+Allow: /js
+Allow: /json
+Allow: /icons
+Allow: /cdn-cgi
+Allow: /cgi-bin
+
+
+Host: https://voldmc.000webhostapp.com
+Sitemap: https://voldmc.000webhostapp.com/sitemap.xml
+Sitemap: https://voldmc.000webhostapp.com/sitemaps.xml

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+<msapplication>
+<title>
+<TileColor>#ff4d00</TileColor>
+<TileImage src="https://voldmc.000webhostapp.com/favicon.ico"/>
+</title>
+<badge>
+<frequency>30</frequency>
+</badge>
+<notification>
+<frequency>360</frequency>
+<cycle>2</cycle>
+</notification>
+</msapplication>
+</browserconfig>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="sitemaps.css" type="text/css"?>
+<sitemapindex xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:xhtml="https://www.w3.org/1999/xhtml" xmlns:image="https://www.google.com/schemas/sitemap-image/1.1" xmlns:video="https://www.google.com/schemas/sitemap-video/1.1">
+<sitemap>
+<loc>https://voldmc.000webhostapp.com/sitemap.xml</loc>
+<priority>1.0</priority>
+</sitemap>
+<sitemap>
+<loc>https://voldmc.000webhostapp.com/feeds/rss.xml</loc>
+<priority>0.8</priority>
+</sitemap>
+<sitemap>
+<loc>https://voldmc.000webhostapp.com/feeds/atom.xml</loc>
+<priority>0.2</priority>
+</sitemap>
+<sitemap>
+<loc>https://voldmc.000webhostapp.com/browserconfig.xml</loc>
+<priority>0.2</priority>
+</sitemap>
+<sitemap>
+<loc>https://voldmc.000webhostapp.com/opensearch.xml</loc>
+<priority>0.2</priority>
+</sitemap>
+<sitemap>
+<loc>https://voldmc.000webhostapp.com/sitemaps.xml</loc>
+<priority>0.4</priority>
+</sitemap>
+</sitemapindex>
